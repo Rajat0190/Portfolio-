@@ -6,9 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          A self-motivated BCA candidate at K.R. Mangalam University and full-stack developer seeking an internship. Skilled in HTML, CSS, JavaScript, React, Node.js, Python, and C++. Experienced in building responsive web applications, machine learning projects, and integrating APIs.
         </p>
       </div>
     </div>
